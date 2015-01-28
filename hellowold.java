@@ -28,4 +28,5 @@ public class PocoNativeFilter
 	public static native int moreBeauteMidd(Bitmap destBmp);
 	public static native int moreBeauteLittle(Bitmap destBmp);
 	public static native int moreBeauteSexy(Bitmap destBmp);
+	public static native int moreBeauteTest(Bitmap destBmp);
 }
